@@ -1,5 +1,5 @@
 ### Heyy! :D
-My real name's a secret ;) But call me Ruby! :D
+Hi, I'm Maryam! :D I also use the pseudonym Ruby Phoenix, so you can call me Ruby too. :P
 
 I'm a homeschooled teenager who loves design — web design in particular. I'm working to become a full-stack developer. 
 
