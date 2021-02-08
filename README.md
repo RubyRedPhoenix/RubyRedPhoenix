@@ -13,7 +13,12 @@ Right now, I'm working on —
 * learning [React](https://reactjs.org/)
 * mastering Git
 
-**My hobbies**: I really, _really_ love to read lol if you ask me about my favorite books, beware — you might get stuck reading for hours :P
+My to-learn list includes —
+* SQL
+* MongoDB
+* Node.js
+
+**My hobbies**: I really, _really_ love to read lol if you ask me about my favorite books, beware — you might get stuck listening for hours :P
 
 You can reach me on [GitHub Discussions](https://github.com/RubyRedPhoenix/RubyRedPhoenix/discussions/1). I don't have social media, but you can also find me on Khan Academy's Computer Science platform, also as [@RubyRedPhoenix](https://www.khanacademy.org/profile/RubyRedPhoenix/)
 
