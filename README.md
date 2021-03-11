@@ -9,18 +9,15 @@ Before I decided on web design, I tried a few other things too —
 * I've learned the basics of SQL, but it's pretty hard imo lol
 
 Right now, I'm working on —
-* learning how to create Wordpress websites from scratch, and using the Wordpress REST API
-* learning [React](https://reactjs.org/)
-* mastering Git
+* Learning Node.js
+* Learning MongoDB
 
 My to-learn list includes —
-* SQL
-* MongoDB
-* Node.js
+* ah it's actually empty now lol
 
 **My hobbies**: I really, _really_ love to read lol if you ask me about my favorite books, beware — you might get stuck listening for hours :P
 
-You can reach me on [GitHub Discussions](https://github.com/RubyRedPhoenix/RubyRedPhoenix/discussions/1). I don't have social media, but you can also find me on Khan Academy's Computer Science platform, also as [@RubyRedPhoenix](https://www.khanacademy.org/profile/RubyRedPhoenix/)
+I don't have social media, but you can find me on Khan Academy's Computer Science platform, also as [@RubyRedPhoenix](https://www.khanacademy.org/profile/RubyRedPhoenix/)
 
 **Random fact about me:** My favorite color is turquoise.
 
