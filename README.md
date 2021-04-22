@@ -1,7 +1,7 @@
 ### Heyy! :D
 Hi, I'm Maryam! :D I also use the pseudonym Ruby Phoenix, so you can call me Ruby too. :P
 
-I'm a homeschooled teenager who loves design — web design in particular. I'm working to become a full-stack developer. 
+I'm a high school student who loves design — web design in particular. I'm learning to become a full-stack developer. 
 
 Before I decided on web design, I tried a few other things too —
 * I learned how to make Android apps with Java. I haven't made anything major though.
